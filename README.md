@@ -13,7 +13,7 @@ My personal repository
 
 - 💬 Ask me about **Ruby , Ruby on rails , react, Javascript**
 
-- 📫 How to reach me **zaid.dakengieer@gmail.com**
+- 📫 How to reach me **zaid.dakengineer@gmail.com**
   
 - My bootcamp projects :
 
