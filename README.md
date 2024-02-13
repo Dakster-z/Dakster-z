@@ -14,6 +14,11 @@ My personal repository
 - 💬 Ask me about **Ruby , Ruby on rails , react, Javascript**
 
 - 📫 How to reach me **zaid.dakengieer@gmail.com**
+  
+- My bootcamp projects :
+
+ OfficeBnB : an Airbnb clone.
+ Bazart : an artisanal marketplace.
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/zaid-dakir-31253a26a/](https://www.linkedin.com/in/zaid-dakir-31253a26a/)
 
