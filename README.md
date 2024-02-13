@@ -1,4 +1,4 @@
-# Zaid
+# Dakster-z
 My personal repository
 <h1 align="center">Hi 👋, I'm DAKIR Zaid</h1>
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
