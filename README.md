@@ -15,8 +15,9 @@ My personal repository
   
 - My bootcamp projects :
 
- OfficeBnB : an Airbnb clone. 
- Bazart : an artisanal marketplace. (https://bazart-17dadf0992eb.herokuapp.com/)
+ OfficeBnB : an Airbnb clone. [Office bnb](https://office-bnb-db7e2b940bf0.herokuapp.com/)
+ 
+ Bazart : an artisanal marketplace. [Baz'Art](https://bazart-17dadf0992eb.herokuapp.com/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/zaid-dakir-31253a26a/](https://www.linkedin.com/in/zaid-dakir-31253a26a/)
 
