@@ -20,6 +20,7 @@ My personal repository
  Bazart : an artisanal marketplace. [Baz'Art](https://bazart-17dadf0992eb.herokuapp.com/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/zaid-dakir-31253a26a/](https://www.linkedin.com/in/zaid-dakir-31253a26a/)
+- PORTFOLIO:  [DAKIR ZAID](https://portfoliodaks.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
